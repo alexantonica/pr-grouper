@@ -1,5 +1,8 @@
 name: Release on Merge to Main
 
+permissions:
+  contents: write # This gives the action permission to create a release/tag
+  
 on:
   push:
     branches:

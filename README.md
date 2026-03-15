@@ -4,7 +4,7 @@
 [![Scheduled CI on Main](https://github.com/alexantonica/pr-grouper/actions/workflows/scheduled-ci-main.yml/badge.svg)](https://github.com/alexantonica/pr-grouper/actions/workflows/scheduled-ci-main.yml)
 
 A Chrome extension to help you manage and open GitHub pull requests in grouped tabs.
-
+test
 ## Features
 
 - Authenticate with your GitHub account using a personal access token.
